@@ -198,7 +198,7 @@ line-height: 1.4;
 
 <section class='container'>
           <hgroup>
-            <h1>MODIFIED! PHP application on OpenShift!</h1>
+            <h1>EVEN MORE MODIFIED! PHP application on OpenShift!</h1>
           </hgroup>
 
 <?php
